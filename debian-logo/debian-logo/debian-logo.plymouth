@@ -52,20 +52,20 @@ Title=Restarting
 [updates]
 UseFirmwareBackground=false
 SuppressMessages=true
-ProgressBarShowPercentComplete=true
+ProgressBarShowPercentComplete=false
 UseProgressBar=true
 Title=Installing updates
 
 [system-upgrade]
 UseFirmwareBackground=false
 SuppressMessages=true
-ProgressBarShowPercentComplete=true
+ProgressBarShowPercentComplete=false
 UseProgressBar=true
 Title=Installing upgrades
 
 [firmware-upgrade]
 UseFirmwareBackground=false
 SuppressMessages=true
-ProgressBarShowPercentComplete=true
+ProgressBarShowPercentComplete=false
 UseProgressBar=true
 Title=Installing firmware
