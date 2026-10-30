@@ -29,7 +29,7 @@ DialogClearsFirmwareBackground=true
 MessageBelowAnimation=true
 
 [boot-up]
-UseEndAnimation=true
+UseEndAnimation=false
 UseFirmwareBackground=false
 ProgressBarShowPercentComplete=false
 UseProgressBar=false
