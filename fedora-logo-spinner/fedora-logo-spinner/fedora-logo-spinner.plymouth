@@ -36,20 +36,23 @@ UseProgressBar=false
 Title=Starting
 
 [shutdown]
-UseEndAnimation=true
+UseAnimation=false
+UseEndAnimation=false
 UseFirmwareBackground=false
 ProgressBarShowPercentComplete=false
 UseProgressBar=false
 Title=Shutting down
 
 [reboot]
-UseEndAnimation=true
+UseAnimation=false
+UseEndAnimation=false
 UseFirmwareBackground=false
 ProgressBarShowPercentComplete=false
 UseProgressBar=false
 Title=Restarting
 
 [updates]
+UseEndAnimation=false
 UseFirmwareBackground=false
 SuppressMessages=true
 ProgressBarShowPercentComplete=false
@@ -57,6 +60,7 @@ UseProgressBar=true
 Title=Installing updates
 
 [system-upgrade]
+UseEndAnimation=false
 UseFirmwareBackground=false
 SuppressMessages=true
 ProgressBarShowPercentComplete=false
@@ -64,6 +68,7 @@ UseProgressBar=true
 Title=Installing upgrades
 
 [firmware-upgrade]
+UseEndAnimation=false
 UseFirmwareBackground=false
 SuppressMessages=true
 ProgressBarShowPercentComplete=false

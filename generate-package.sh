@@ -8,11 +8,11 @@
 # Usage:
 #   ./generate-package.sh [VERSION]
 #
-# If VERSION is omitted it defaults to 1.3 (matching the current release).
+# If VERSION is omitted it defaults to 1.4 (matching the current release).
 
 set -e
 
-VERSION="${1:-1.3}"
+VERSION="${1:-1.4}"
 
 # List of themes. Each must follow the layout: <theme>/<theme>/
 THEMES=(
